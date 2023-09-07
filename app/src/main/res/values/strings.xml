@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FireBase_Login</string>
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="register">REGISTER</string>
+    <string name="login_now">click to login</string>
+    <string name="reg_now">Click to register</string>
+    <string name="welcome">WELCOME</string>
+    <string name="logout">Logout</string>
+    <string-array name="room">
+        <item>Delux</item>
+        <item>Suite</item>
+    </string-array>
+    <string-array name="amenities">
+        <item>AC</item>
+        <item>Locker</item>
+        <item>Both</item>
+        <item>None</item>
+    </string-array>
+</resources>
